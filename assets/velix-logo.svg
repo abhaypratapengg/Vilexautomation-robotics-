@@ -1,0 +1,10 @@
+<svg width="336" height="96" viewBox="0 0 336 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Velix Automation & Robotics logo</title>
+  <desc id="desc">Velix wordmark with industrial automation and robotics icon.</desc>
+  <rect width="336" height="96" rx="18" fill="#09131f"/>
+  <path d="M35 66L52 30h14L49 66H35Z" fill="#00D4FF"/>
+  <path d="M61 66L78 30h14L75 66H61Z" fill="#FFB703"/>
+  <path d="M100 66V30h11v27h22v9h-33ZM141 66V30h11v36h-11ZM161 66V30h29v9h-18v5h16v8h-16v5h19v9h-30ZM199 66l14-19-13-17h13l7 9 7-9h13l-13 17 14 19h-13l-8-10-8 10h-13Z" fill="white"/>
+  <path d="M252 34h42M252 48h30M252 62h42" stroke="#00D4FF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="304" cy="34" r="6" fill="#FFB703"/><circle cx="290" cy="48" r="6" fill="#FFB703"/><circle cx="304" cy="62" r="6" fill="#FFB703"/>
+</svg>
